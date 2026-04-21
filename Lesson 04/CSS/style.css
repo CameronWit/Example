@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+
+}
+
+h1 {
+    border: 2px dashed red;
+    width: 50%;
+    font-size: 3rem;
+    padding: 0.5em;
+}
+
+main {
+    font-size: 2rem;
+}
+
+p {
+    font-size: 2rem;
+    width: 40ch;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(43, 22, 117);
+}
+
+header {
+    width: 100%;
+    height: 20vh;
+    background-color: rgb(75, 72, 72);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

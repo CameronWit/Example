@@ -1,0 +1,11 @@
+body {
+    front-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    background: #ffefd5;
+    color: rgb(20, 25, 60);
+}
+
+p {
+    color: rgba(10, 10, 224, 0.911);
+}
